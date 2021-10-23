@@ -8,7 +8,7 @@
   <h3 align="center">Tech Center</h3>
 
   <p align="center">
-This contains all the source code for the site made for the Tech Center community. TechCenter is a community created in order to encourage the creation of connections, sharing learning, within a healthy exchange environment between people passionate about technology and companies in the market!
+This contains all the source code for the site made for the Tech Center Community. TechCenter is a community created in order to encourage the creation of connections, sharing learning, within a healthy exchange environment between people passionate about technology and companies in the market!
     <br />
     <a href="https://github.com/citi-onboarding/TechCenter"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,11 +59,11 @@ This contains all the source code for the site made for the Tech Center communit
 
 ## About The Project
 
-This contains all the source code for the site made for the Tech Center community. TechCenter is a community created in order to encourage the creation of connections, sharing learning, within a healthy exchange environment between people passionate about technology and companies in the market!
+This contains all the source code for the site made for the Tech Center Community. TechCenter is a community created in order to encourage the creation of connections, sharing learning, within a healthy exchange environment between people passionate about technology and companies in the market!
 
-This site was part of the PTA challenge - the last phase to join the junior company Citi and which has a more technical content - and had as developers: @apfdamascena and @phsb5321. During this challenge, @joaovictorbelo was the squad's software manager, as he was also participating in a selection process to become the citi's software manager
+This site was part of the PTA challenge - the last phase to join the junior company CITi and which has a more technical content - and had as developers: @apfdamascena and @phsb5321. During this challenge, @joaovictorbelo was the squad's software manager, as he was also participating in a selection process to become the CITi's software manager
 
-Alana Ramos was also part of the 7belo squad and had the role of building the mockup and monitoring the entire development of the site.
+Alana Ramos was also part of the squad and had the role of building the mockup and monitoring the entire development of the site.
 
 
 ### Built With
