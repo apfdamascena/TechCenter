@@ -65,6 +65,8 @@ This site was part of the PTA challenge - the last phase to join the junior comp
 
 Alana Ramos was also part of the squad and had the role of building the mockup and monitoring the entire development of the site.
 
+https://tech-center.herokuapp.com/
+
 
 ### Built With
 
